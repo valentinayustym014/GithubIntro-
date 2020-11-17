@@ -3,3 +3,4 @@ Shooping List:
 Apples
 Oranges
 Bananas 
+Cereal 
